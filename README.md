@@ -1,7 +1,7 @@
 # Brightlearn-Exercise-Project
 Data Analytics Course Class exercise number 1 on SQL coding
 
-###Demostrated how to code structure data using SQL
+###Demostrated how to code structured data using SQL
 
 Filtering Columns using SELECT statement(SELECT*,SELECT DISTINCT and SELECT specific columns)
 Specifying DATA source using FROM statement
