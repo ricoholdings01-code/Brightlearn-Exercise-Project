@@ -1,7 +1,7 @@
 # Brightlearn-Exercise-Project
-Data Analytics Course Class exercise number 1 on SQL coding
+Data Analytics Course Class exercise on SQL coding
 
-###Demostrated how to code structured data using SQL
+###Demostrated with a hand wriiten scanned sheets on how to code structured data using SQL
 
 Filtering Columns using SELECT statement(SELECT*,SELECT DISTINCT and SELECT specific columns).
 Specifying DATA source using FROM statement.
@@ -18,4 +18,4 @@ To demostrate my competency on subject matter and give me thump up.
 ###Objectives
 To make me Brightlearn Ambassador.
 ###Summary 
-Don't give up in life!!!!
+Practice codindg manuallly on paper give indepth knowledge and understanding on what one is doing and expected to as Data Analyst .My motto is "Don't give up in life!!!!"
